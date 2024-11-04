@@ -129,4 +129,4 @@ process.on('typeError', error => {
 });
 
 // Log in the client
-client.login("MTI5OTA0MzA4Mjg0MjQxMTE3MA.G6Mg8p.AbmsD1KPFgTqeS8OFAo7Z7d0iat1CEyi19VLfM");
+client.login("token");
